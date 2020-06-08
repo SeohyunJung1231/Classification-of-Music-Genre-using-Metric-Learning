@@ -1,3 +1,6 @@
-# Classification-of-Music-Genre-using-GMML
+# Classification-of-Music-Genre-using-Metric-Learning
 
-will be updated after submitting paper
+* Code will be updated after the paper submission is confirmed
+
+
+
